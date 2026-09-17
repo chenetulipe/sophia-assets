@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/chenetulipe/sophia-assets/main/animations/{Nom
 ## 🙏 Remerciements & Crédits
 
 Un immense merci à :
-- **Hamza Karrouchi ([@CodeByHaamza](https://github.com/CodeByHaamza))** ainsi qu'au projet **[Personadle](https://github.com/CodeByHaamza/personadle)** pour l'extraction, la curation et la mise à disposition de cette formidable base de données d'animations All-Out Attack.
+- **Hamza ([@CodeByHaamza](https://github.com/CodeByHaamza))** ainsi qu'au projet **[Personadle](https://github.com/CodeByHaamza/personadle)** pour l'extraction, la curation et la mise à disposition de cette formidable base de données d'animations All-Out Attack.
 
 ---
 
